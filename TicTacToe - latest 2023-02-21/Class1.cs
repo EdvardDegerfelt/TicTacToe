@@ -14,7 +14,7 @@ public class Player : PlayerMove //Ärver Playermove pga få färg till errormed
     public int AmountOfWins { get; private set; }
     public int AmountOfTies { get; private set; }
 
-    public Player()
+    public Player()//HELLOHELLO
     {
         this.Name = PlayerName();
 
